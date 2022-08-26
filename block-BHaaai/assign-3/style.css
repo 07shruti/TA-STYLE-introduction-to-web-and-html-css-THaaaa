@@ -1,0 +1,19 @@
+body
+{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+p
+{
+    text-align: left    
+}
+h3{
+    text-align: left;
+}
+h2
+{
+    color: green;
+    text-align: left;
+}
+<img src="https://raw.githubusercontent.com/suraj122/AC-STYLE-images/master/introduction/assignment2.png" alt="Peter" height="200" width="200">
